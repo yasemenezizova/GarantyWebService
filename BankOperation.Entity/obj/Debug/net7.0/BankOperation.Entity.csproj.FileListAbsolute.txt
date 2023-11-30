@@ -1,0 +1,14 @@
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\bin\Debug\net7.0\BankOperation.Entity.deps.json
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\bin\Debug\net7.0\BankOperation.Entity.runtimeconfig.json
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\bin\Debug\net7.0\BankOperation.Entity.dll
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\bin\Debug\net7.0\BankOperation.Entity.pdb
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\obj\Debug\net7.0\BankOperation.Entity.csproj.AssemblyReference.cache
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\obj\Debug\net7.0\BankOperation.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\obj\Debug\net7.0\BankOperation.Entity.AssemblyInfoInputs.cache
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\obj\Debug\net7.0\BankOperation.Entity.AssemblyInfo.cs
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\obj\Debug\net7.0\BankOperation.Entity.csproj.CoreCompileInputs.cache
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\obj\Debug\net7.0\BankOperation.Entity.dll
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\obj\Debug\net7.0\refint\BankOperation.Entity.dll
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\obj\Debug\net7.0\BankOperation.Entity.pdb
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\obj\Debug\net7.0\BankOperation.Entity.genruntimeconfig.cache
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Entity\obj\Debug\net7.0\ref\BankOperation.Entity.dll

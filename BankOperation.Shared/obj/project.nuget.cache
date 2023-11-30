@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oY9Sgn+piVHEq7Hx+5bBVwNmWPaNgH9YqAreltw8yv5jquGU7GggVqh6opi3Qvvn+2r93h1Uz8uNHDJRUAKXlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasaman.10991\\source\\repos\\BankOperation\\BankOperation.Shared\\BankOperation.Shared.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.packages.dgk/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

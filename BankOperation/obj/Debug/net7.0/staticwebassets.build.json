@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KPUBtJNPsqQgPs3dEOxwFa2VLniKZeUBw4oY7NXfyjg=",
+  "Source": "BankOperation",
+  "BasePath": "_content/BankOperation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\bin\Debug\net7.0\BankOperation.Data.deps.json
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\bin\Debug\net7.0\BankOperation.Data.dll
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\bin\Debug\net7.0\BankOperation.Data.pdb
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\obj\Debug\net7.0\BankOperation.Data.csproj.AssemblyReference.cache
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\obj\Debug\net7.0\BankOperation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\obj\Debug\net7.0\BankOperation.Data.AssemblyInfoInputs.cache
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\obj\Debug\net7.0\BankOperation.Data.AssemblyInfo.cs
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\obj\Debug\net7.0\BankOperation.Data.csproj.CoreCompileInputs.cache
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\obj\Debug\net7.0\BankOperation.Data.dll
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\obj\Debug\net7.0\refint\BankOperation.Data.dll
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\obj\Debug\net7.0\BankOperation.Data.pdb
+C:\Users\yasaman.10991\source\repos\BankOperation\BankOperation.Data\obj\Debug\net7.0\ref\BankOperation.Data.dll

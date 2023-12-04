@@ -73,7 +73,7 @@ public partial class GarantydbContext : DbContext
                 .HasColumnName("UPDATE_DATE");
             entity.Property(e => e.Voen).HasColumnName("VOEN");
         });
-
+        //
         modelBuilder.Entity<BankGuarantee>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("BANK_GUARANTEES_pkey");
